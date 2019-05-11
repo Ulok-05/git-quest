@@ -1,0 +1,6 @@
+[core]
+	quotepath = false
+	editor = vim
+[user]
+	email = ulok-05@mail.ru
+	name = ulok
